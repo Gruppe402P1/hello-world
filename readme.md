@@ -550,6 +550,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Malbolge](m/Malbolge.mb)
 * [Mana](m/Mana.mn)
 * [Manim](m/Manim.py)
+* [Maple](m/Maple.mpl)
 * [MarioLANG](m/MarioLANG.mlg)
 * [Markdown](m/Markdown.md)
 * [Mathematica Online](m/Mathematica%20Online.nb)
